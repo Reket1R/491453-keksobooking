@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Рустам Ашуров](https://up.htmlacademy.ru/javascript/11/user/491453).
-* Наставник: `Неизвестно`.
+* Наставник: [Магомед Кандаев].
 
 ---
 
